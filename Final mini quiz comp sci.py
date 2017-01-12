@@ -27,8 +27,7 @@ q3 = input("SOF: ")
 if q3 == "School of the Future" or q3 == "school of the future" or q3 == "School of Future":
     print("Correct! Duh. +2 points")
 else:
-    print("You've been at this school for at least a few years now and you don't\
-    know what sof stands for???")
+    print("You've been at this school for at least a few years now and you dont know what sof stands for???")
 
 print("Question 4, What is the square root of 144?")
 q4 = input("sqrt(144) = ") #Q4, either 11 or 13
